@@ -1,0 +1,4554 @@
+[
+ {
+  "file": "PC10/ok/ok-00.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.0,
+   "width_mm": 45.4,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-01.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.6,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-02.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.6,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-03.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.4,
+   "width_mm": 44.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-04.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.5,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-05.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.0,
+   "width_mm": 46.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-06.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.8,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-07.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.7,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-08.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.2,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-09.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.6,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-10.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.7,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-11.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.1,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-12.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.1,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-13.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.8,
+   "width_mm": 45.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-14.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.3,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-15.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.1,
+   "width_mm": 45.3,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-16.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.1,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-17.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.0,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-18.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.0,
+   "width_mm": 45.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-19.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.6,
+   "width_mm": 45.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-20.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.6,
+   "width_mm": 46.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-21.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.9,
+   "width_mm": 45.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-22.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.5,
+   "width_mm": 45.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/ok/ok-23.jpg",
+  "station": "PC10",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.6,
+   "width_mm": 45.4,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-00.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   20,
+   87,
+   1122,
+   326
+  ],
+  "truth": {
+   "length_mm": 544.2,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-01.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   33,
+   88,
+   1131,
+   325
+  ],
+  "truth": {
+   "length_mm": 542.3,
+   "width_mm": 45.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-02.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   22,
+   94,
+   1116,
+   334
+  ],
+  "truth": {
+   "length_mm": 541.0,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-03.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   18,
+   91,
+   1114,
+   334
+  ],
+  "truth": {
+   "length_mm": 542.4,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-04.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   18,
+   107,
+   1186,
+   341
+  ],
+  "truth": {
+   "length_mm": 576.3,
+   "width_mm": 45.3,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-05.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   26,
+   87,
+   1190,
+   326
+  ],
+  "truth": {
+   "length_mm": 575.2,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-06.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   26,
+   90,
+   1130,
+   323
+  ],
+  "truth": {
+   "length_mm": 545.7,
+   "width_mm": 45.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-07.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   34,
+   106,
+   1194,
+   343
+  ],
+  "truth": {
+   "length_mm": 572.7,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-08.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   26,
+   93,
+   1183,
+   329
+  ],
+  "truth": {
+   "length_mm": 571.9,
+   "width_mm": 45.6,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/length_out_of_tolerance/length_out_of_tolerance-09.jpg",
+  "station": "PC10",
+  "defect": "length_out_of_tolerance",
+  "bbox": [
+   23,
+   92,
+   1129,
+   332
+  ],
+  "truth": {
+   "length_mm": 546.6,
+   "width_mm": 46.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-00.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   22,
+   106,
+   855,
+   316
+  ],
+  "truth": {
+   "length_mm": 560.6,
+   "width_mm": 40.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-01.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   21,
+   93,
+   849,
+   316
+  ],
+  "truth": {
+   "length_mm": 558.7,
+   "width_mm": 41.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-02.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   22,
+   75,
+   856,
+   336
+  ],
+  "truth": {
+   "length_mm": 560.0,
+   "width_mm": 50.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-03.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   15,
+   124,
+   845,
+   330
+  ],
+  "truth": {
+   "length_mm": 559.3,
+   "width_mm": 38.6,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-04.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   21,
+   116,
+   851,
+   329
+  ],
+  "truth": {
+   "length_mm": 558.4,
+   "width_mm": 41.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-05.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   14,
+   110,
+   844,
+   319
+  ],
+  "truth": {
+   "length_mm": 559.3,
+   "width_mm": 39.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-06.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   26,
+   125,
+   862,
+   326
+  ],
+  "truth": {
+   "length_mm": 560.2,
+   "width_mm": 38.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-07.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   32,
+   72,
+   865,
+   343
+  ],
+  "truth": {
+   "length_mm": 561.1,
+   "width_mm": 51.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-08.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   22,
+   69,
+   849,
+   331
+  ],
+  "truth": {
+   "length_mm": 558.5,
+   "width_mm": 50.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/width_out_of_tolerance/width_out_of_tolerance-09.jpg",
+  "station": "PC10",
+  "defect": "width_out_of_tolerance",
+  "bbox": [
+   30,
+   75,
+   864,
+   349
+  ],
+  "truth": {
+   "length_mm": 561.6,
+   "width_mm": 52.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-00.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   834,
+   210,
+   1150,
+   324
+  ],
+  "truth": {
+   "offset_deg": 3.14,
+   "offset_px": -6.6
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-01.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   846,
+   206,
+   1162,
+   315
+  ],
+  "truth": {
+   "offset_deg": -2.12,
+   "offset_px": 2.7
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-02.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   850,
+   202,
+   1166,
+   308
+  ],
+  "truth": {
+   "offset_deg": 2.71,
+   "offset_px": -6.0
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-03.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   851,
+   210,
+   1167,
+   319
+  ],
+  "truth": {
+   "offset_deg": -2.56,
+   "offset_px": 4.2
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-04.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   851,
+   218,
+   1167,
+   329
+  ],
+  "truth": {
+   "offset_deg": 3.98,
+   "offset_px": -2.4
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-05.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   851,
+   216,
+   1167,
+   326
+  ],
+  "truth": {
+   "offset_deg": -3.11,
+   "offset_px": 5.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-06.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   846,
+   224,
+   1162,
+   333
+  ],
+  "truth": {
+   "offset_deg": -2.5,
+   "offset_px": 4.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-07.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   844,
+   191,
+   1160,
+   306
+  ],
+  "truth": {
+   "offset_deg": -2.68,
+   "offset_px": 3.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-08.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   850,
+   202,
+   1166,
+   310
+  ],
+  "truth": {
+   "offset_deg": -2.08,
+   "offset_px": 2.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/handle_misalignment/handle_misalignment-09.jpg",
+  "station": "PC10",
+  "defect": "handle_misalignment",
+  "bbox": [
+   834,
+   204,
+   1150,
+   321
+  ],
+  "truth": {
+   "offset_deg": -3.58,
+   "offset_px": 2.3
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-00.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   832,
+   226,
+   875,
+   318
+  ],
+  "truth": {
+   "gap_mm": 4.0
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-01.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   825,
+   223,
+   866,
+   315
+  ],
+  "truth": {
+   "gap_mm": 3.2
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-02.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   830,
+   210,
+   874,
+   303
+  ],
+  "truth": {
+   "gap_mm": 3.6
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-03.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   822,
+   219,
+   868,
+   312
+  ],
+  "truth": {
+   "gap_mm": 5.2
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-04.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   835,
+   221,
+   879,
+   314
+  ],
+  "truth": {
+   "gap_mm": 4.0
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-05.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   828,
+   218,
+   869,
+   310
+  ],
+  "truth": {
+   "gap_mm": 2.8
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-06.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   822,
+   211,
+   864,
+   304
+  ],
+  "truth": {
+   "gap_mm": 3.6
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-07.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   842,
+   217,
+   888,
+   310
+  ],
+  "truth": {
+   "gap_mm": 5.2
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-08.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   836,
+   221,
+   882,
+   314
+  ],
+  "truth": {
+   "gap_mm": 4.8
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_assembly_fit/poor_assembly_fit-09.jpg",
+  "station": "PC10",
+  "defect": "poor_assembly_fit",
+  "bbox": [
+   840,
+   218,
+   886,
+   311
+  ],
+  "truth": {
+   "gap_mm": 5.6
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-00-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   870,
+   207,
+   966,
+   302
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-00-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   862,
+   206,
+   957,
+   302
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-01-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   965,
+   227,
+   1061,
+   322
+  ],
+  "truth": {
+   "seed": 101,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-01-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   961,
+   215,
+   1057,
+   311
+  ],
+  "truth": {
+   "seed": 101,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-02-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   1053,
+   218,
+   1148,
+   313
+  ],
+  "truth": {
+   "seed": 102,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-02-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   1061,
+   222,
+   1155,
+   316
+  ],
+  "truth": {
+   "seed": 102,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-03-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   863,
+   202,
+   957,
+   296
+  ],
+  "truth": {
+   "seed": 103,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-03-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   862,
+   200,
+   956,
+   294
+  ],
+  "truth": {
+   "seed": 103,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-04-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   957,
+   219,
+   1051,
+   313
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-04-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   970,
+   227,
+   1066,
+   322
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-05-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   1065,
+   202,
+   1160,
+   297
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-05-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   1064,
+   234,
+   1159,
+   330
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-06-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   861,
+   221,
+   955,
+   315
+  ],
+  "truth": {
+   "seed": 106,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-06-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   870,
+   216,
+   965,
+   311
+  ],
+  "truth": {
+   "seed": 106,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-07-v0.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   957,
+   203,
+   1051,
+   298
+  ],
+  "truth": {
+   "seed": 107,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/rusty_rivets/rust-07-v1.jpg",
+  "station": "PC10",
+  "defect": "rusty_rivets",
+  "bbox": [
+   972,
+   204,
+   1066,
+   298
+  ],
+  "truth": {
+   "seed": 107,
+   "strength": 0.62
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-00-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   853,
+   202,
+   947,
+   298
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-00-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   869,
+   202,
+   964,
+   296
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-02-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   1062,
+   221,
+   1156,
+   314
+  ],
+  "truth": {
+   "seed": 102,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-02-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   1060,
+   229,
+   1155,
+   324
+  ],
+  "truth": {
+   "seed": 102,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-03-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   862,
+   196,
+   956,
+   290
+  ],
+  "truth": {
+   "seed": 103,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-03-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   860,
+   215,
+   954,
+   310
+  ],
+  "truth": {
+   "seed": 103,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-04-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   954,
+   207,
+   1048,
+   302
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-04-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   966,
+   210,
+   1061,
+   306
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-05-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   1062,
+   226,
+   1156,
+   321
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-05-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   1051,
+   207,
+   1146,
+   302
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-06-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   862,
+   210,
+   958,
+   305
+  ],
+  "truth": {
+   "seed": 106,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-06-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   871,
+   218,
+   966,
+   312
+  ],
+  "truth": {
+   "seed": 106,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-07-v0.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   952,
+   211,
+   1046,
+   305
+  ],
+  "truth": {
+   "seed": 107,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/bad_riveting/badrivet-07-v1.jpg",
+  "station": "PC10",
+  "defect": "bad_riveting",
+  "bbox": [
+   958,
+   210,
+   1053,
+   305
+  ],
+  "truth": {
+   "seed": 107,
+   "strength": 0.68
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-00-v0.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   861,
+   204,
+   1005,
+   283
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-00-v1.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   855,
+   182,
+   998,
+   260
+  ],
+  "truth": {
+   "seed": 100,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-01-v0.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   958,
+   196,
+   1102,
+   275
+  ],
+  "truth": {
+   "seed": 101,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-01-v1.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   972,
+   200,
+   1116,
+   278
+  ],
+  "truth": {
+   "seed": 101,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-04-v0.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   858,
+   194,
+   1002,
+   273
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-04-v1.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   853,
+   187,
+   998,
+   267
+  ],
+  "truth": {
+   "seed": 104,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-05-v0.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   970,
+   198,
+   1114,
+   277
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/finish_handle-05-v1.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   975,
+   188,
+   1119,
+   266
+  ],
+  "truth": {
+   "seed": 105,
+   "strength": 0.6
+  },
+  "method": "diffusion-z-image-turbo-crop",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-scratches-00.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   296,
+   190,
+   718,
+   326
+  ],
+  "truth": {
+   "note": "Hoja: rayaduras profundas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-scratches-01.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   350,
+   201,
+   725,
+   327
+  ],
+  "truth": {
+   "note": "Hoja: rayaduras profundas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-scratches-02.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   375,
+   222,
+   694,
+   343
+  ],
+  "truth": {
+   "note": "Hoja: rayaduras profundas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-scratches-03.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   267,
+   213,
+   648,
+   346
+  ],
+  "truth": {
+   "note": "Hoja: rayaduras profundas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-scratches-04.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   412,
+   230,
+   706,
+   321
+  ],
+  "truth": {
+   "note": "Hoja: rayaduras profundas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-nicks-00.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   298,
+   274,
+   650,
+   350
+  ],
+  "truth": {
+   "note": "Hoja: filo con mellas y rebabas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-nicks-01.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   333,
+   257,
+   760,
+   342
+  ],
+  "truth": {
+   "note": "Hoja: filo con mellas y rebabas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-nicks-02.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   270,
+   252,
+   736,
+   338
+  ],
+  "truth": {
+   "note": "Hoja: filo con mellas y rebabas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-nicks-03.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   355,
+   247,
+   764,
+   335
+  ],
+  "truth": {
+   "note": "Hoja: filo con mellas y rebabas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-nicks-04.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   486,
+   259,
+   707,
+   331
+  ],
+  "truth": {
+   "note": "Hoja: filo con mellas y rebabas"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-pitting-00.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   326,
+   232,
+   452,
+   328
+  ],
+  "truth": {
+   "note": "Hoja: picaduras y oxidaci\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-pitting-01.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   221,
+   207,
+   358,
+   310
+  ],
+  "truth": {
+   "note": "Hoja: picaduras y oxidaci\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-pitting-02.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   558,
+   212,
+   712,
+   302
+  ],
+  "truth": {
+   "note": "Hoja: picaduras y oxidaci\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-pitting-03.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   472,
+   218,
+   602,
+   309
+  ],
+  "truth": {
+   "note": "Hoja: picaduras y oxidaci\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-pitting-04.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   547,
+   224,
+   692,
+   299
+  ],
+  "truth": {
+   "note": "Hoja: picaduras y oxidaci\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-gouge-00.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   429,
+   232,
+   519,
+   295
+  ],
+  "truth": {
+   "note": "Hoja: golpe / rasp\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-gouge-01.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   446,
+   230,
+   555,
+   286
+  ],
+  "truth": {
+   "note": "Hoja: golpe / rasp\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-gouge-02.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   527,
+   230,
+   625,
+   302
+  ],
+  "truth": {
+   "note": "Hoja: golpe / rasp\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-gouge-03.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   325,
+   210,
+   437,
+   291
+  ],
+  "truth": {
+   "note": "Hoja: golpe / rasp\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-gouge-04.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   312,
+   251,
+   400,
+   306
+  ],
+  "truth": {
+   "note": "Hoja: golpe / rasp\u00f3n"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-polish-00.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   357,
+   218,
+   743,
+   333
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-polish-01.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   372,
+   203,
+   647,
+   315
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-polish-02.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   406,
+   222,
+   654,
+   336
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-polish-03.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   262,
+   220,
+   785,
+   337
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC10/poor_finish/poor_finish-blade-polish-04.jpg",
+  "station": "PC10",
+  "defect": "poor_finish",
+  "bbox": [
+   294,
+   202,
+   775,
+   318
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-00.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   832,
+   210,
+   1147,
+   325
+  ],
+  "truth": {
+   "offset_deg": -3.87,
+   "offset_px": 2.1
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-01.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   848,
+   212,
+   1164,
+   322
+  ],
+  "truth": {
+   "offset_deg": -3.03,
+   "offset_px": 3.3
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-02.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   848,
+   226,
+   1164,
+   340
+  ],
+  "truth": {
+   "offset_deg": 3.45,
+   "offset_px": -3.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-03.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   850,
+   197,
+   1166,
+   318
+  ],
+  "truth": {
+   "offset_deg": -4.04,
+   "offset_px": 5.0
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-04.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   837,
+   197,
+   1152,
+   318
+  ],
+  "truth": {
+   "offset_deg": -4.08,
+   "offset_px": 5.7
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-05.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   844,
+   202,
+   1160,
+   319
+  ],
+  "truth": {
+   "offset_deg": -3.77,
+   "offset_px": 4.1
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-06.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   843,
+   220,
+   1158,
+   328
+  ],
+  "truth": {
+   "offset_deg": 1.6,
+   "offset_px": -5.4
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-07.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   843,
+   202,
+   1158,
+   306
+  ],
+  "truth": {
+   "offset_deg": 2.07,
+   "offset_px": -7.0
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-08.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   844,
+   214,
+   1159,
+   322
+  ],
+  "truth": {
+   "offset_deg": -2.56,
+   "offset_px": 2.4
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/handle_misalignment/handle_misalignment-09.jpg",
+  "station": "PC12",
+  "defect": "handle_misalignment",
+  "bbox": [
+   830,
+   198,
+   1146,
+   315
+  ],
+  "truth": {
+   "offset_deg": -3.37,
+   "offset_px": 5.9
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-00.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   14,
+   111,
+   1118,
+   345
+  ],
+  "truth": {
+   "length_mm": 545.3,
+   "width_mm": 45.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-01.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   23,
+   84,
+   857,
+   343
+  ],
+  "truth": {
+   "length_mm": 561.2,
+   "width_mm": 50.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-02.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   15,
+   99,
+   1126,
+   335
+  ],
+  "truth": {
+   "length_mm": 548.1,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-03.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   35,
+   109,
+   870,
+   323
+  ],
+  "truth": {
+   "length_mm": 561.5,
+   "width_mm": 40.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-04.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   27,
+   100,
+   1199,
+   341
+  ],
+  "truth": {
+   "length_mm": 581.8,
+   "width_mm": 46.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-05.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   17,
+   118,
+   846,
+   322
+  ],
+  "truth": {
+   "length_mm": 558.4,
+   "width_mm": 38.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-06.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   26,
+   94,
+   1182,
+   334
+  ],
+  "truth": {
+   "length_mm": 571.2,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/dimensions_out_of_spec/dimensions_out_of_spec-07.jpg",
+  "station": "PC12",
+  "defect": "dimensions_out_of_spec",
+  "bbox": [
+   14,
+   122,
+   847,
+   336
+  ],
+  "truth": {
+   "length_mm": 560.7,
+   "width_mm": 40.6,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-00.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.6,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-01.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.9,
+   "width_mm": 45.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-02.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 562.0,
+   "width_mm": 45.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-03.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.3,
+   "width_mm": 45.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-04.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.9,
+   "width_mm": 45.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-05.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.3,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-06.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.5,
+   "width_mm": 45.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-07.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.5,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-08.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.4,
+   "width_mm": 44.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-09.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.2,
+   "width_mm": 45.8,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-10.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.3,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/ok/ok-11.jpg",
+  "station": "PC08",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.3,
+   "width_mm": 45.5,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-00.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.7,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-01.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.1,
+   "width_mm": 46.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-02.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.9,
+   "width_mm": 46.1,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-03.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.3,
+   "width_mm": 44.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-04.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.2,
+   "width_mm": 45.3,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-05.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 558.4,
+   "width_mm": 45.9,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-06.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.2,
+   "width_mm": 45.6,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-07.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.9,
+   "width_mm": 45.2,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-08.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.4,
+   "width_mm": 45.3,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-09.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 561.7,
+   "width_mm": 45.7,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-10.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 560.7,
+   "width_mm": 45.4,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/ok/ok-11.jpg",
+  "station": "PC12",
+  "defect": null,
+  "bbox": null,
+  "truth": {
+   "length_mm": 559.3,
+   "width_mm": 45.0,
+   "nominal_length_mm": 560.0,
+   "nominal_width_mm": 45.5,
+   "tol_length_mm": 5.0,
+   "tol_width_mm": 2.0,
+   "px_per_mm": 2.505
+  },
+  "method": "deterministic",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-00.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   23,
+   102,
+   1158,
+   338
+  ],
+  "truth": {
+   "deflection_mm": 6.8
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-01.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   32,
+   98,
+   1165,
+   335
+  ],
+  "truth": {
+   "deflection_mm": 8.1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-02.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   27,
+   85,
+   1158,
+   324
+  ],
+  "truth": {
+   "deflection_mm": 7.2
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-03.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   30,
+   93,
+   1164,
+   329
+  ],
+  "truth": {
+   "deflection_mm": 12.3
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-04.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   14,
+   94,
+   1146,
+   332
+  ],
+  "truth": {
+   "deflection_mm": 8.0
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/bent_blade/bent_blade-05.jpg",
+  "station": "PC08",
+  "defect": "bent_blade",
+  "bbox": [
+   32,
+   83,
+   1165,
+   331
+  ],
+  "truth": {
+   "deflection_mm": 13.3
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-00.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   240,
+   193,
+   850,
+   262
+  ],
+  "truth": {
+   "amplitude_mm": 3.6
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-01.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   240,
+   187,
+   850,
+   254
+  ],
+  "truth": {
+   "amplitude_mm": 3.9
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-02.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   230,
+   191,
+   841,
+   253
+  ],
+  "truth": {
+   "amplitude_mm": 3.5
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-03.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   226,
+   204,
+   837,
+   270
+  ],
+  "truth": {
+   "amplitude_mm": 2.2
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-04.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   239,
+   192,
+   850,
+   262
+  ],
+  "truth": {
+   "amplitude_mm": 2.7
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/spine_waviness/spine_waviness-05.jpg",
+  "station": "PC08",
+  "defect": "spine_waviness",
+  "bbox": [
+   238,
+   206,
+   847,
+   267
+  ],
+  "truth": {
+   "amplitude_mm": 3.1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-00.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   644,
+   224,
+   730,
+   310
+  ],
+  "truth": {
+   "count": 1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-01.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   403,
+   246,
+   476,
+   320
+  ],
+  "truth": {
+   "count": 1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-02.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   264,
+   220,
+   358,
+   314
+  ],
+  "truth": {
+   "count": 1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-03.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   277,
+   204,
+   697,
+   307
+  ],
+  "truth": {
+   "count": 2
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-04.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   178,
+   210,
+   253,
+   285
+  ],
+  "truth": {
+   "count": 1
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/dents/dents-05.jpg",
+  "station": "PC08",
+  "defect": "dents",
+  "bbox": [
+   501,
+   222,
+   610,
+   324
+  ],
+  "truth": {
+   "count": 2
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-00.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   226,
+   234,
+   475,
+   318
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-01.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   362,
+   218,
+   620,
+   310
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-02.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   566,
+   230,
+   780,
+   326
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-03.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   250,
+   218,
+   536,
+   326
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-04.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   270,
+   224,
+   571,
+   309
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/blistered_blade/blistered_blade-05.jpg",
+  "station": "PC08",
+  "defect": "blistered_blade",
+  "bbox": [
+   444,
+   226,
+   742,
+   307
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-00.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   397,
+   215,
+   724,
+   325
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-01.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   266,
+   226,
+   652,
+   342
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-02.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   379,
+   217,
+   762,
+   328
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-03.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   331,
+   226,
+   682,
+   341
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-04.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   354,
+   224,
+   671,
+   336
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/poor_polish/poor_polish-05.jpg",
+  "station": "PC08",
+  "defect": "poor_polish",
+  "bbox": [
+   366,
+   223,
+   632,
+   338
+  ],
+  "truth": {
+   "note": "Hoja: pulido irregular"
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-00.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   310,
+   230,
+   466,
+   314
+  ],
+  "truth": {
+   "pores": 26
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-01.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   328,
+   236,
+   485,
+   322
+  ],
+  "truth": {
+   "pores": 34
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-02.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   501,
+   231,
+   658,
+   318
+  ],
+  "truth": {
+   "pores": 24
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-03.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   496,
+   250,
+   654,
+   336
+  ],
+  "truth": {
+   "pores": 23
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-04.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   613,
+   244,
+   770,
+   330
+  ],
+  "truth": {
+   "pores": 32
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/pores/pores-05.jpg",
+  "station": "PC08",
+  "defect": "pores",
+  "bbox": [
+   232,
+   234,
+   389,
+   320
+  ],
+  "truth": {
+   "pores": 31
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-00.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   594,
+   213,
+   683,
+   325
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-01.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   418,
+   209,
+   509,
+   322
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-02.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   644,
+   209,
+   734,
+   321
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-03.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   250,
+   194,
+   342,
+   306
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-04.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   591,
+   219,
+   681,
+   331
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/fingerprints/fingerprints-05.jpg",
+  "station": "PC08",
+  "defect": "fingerprints",
+  "bbox": [
+   341,
+   206,
+   430,
+   318
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-00.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   313,
+   270,
+   541,
+   346
+  ],
+  "truth": {
+   "chips": 5
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-01.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   330,
+   275,
+   518,
+   353
+  ],
+  "truth": {
+   "chips": 4
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-02.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   578,
+   259,
+   699,
+   338
+  ],
+  "truth": {
+   "chips": 3
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-03.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   299,
+   275,
+   733,
+   346
+  ],
+  "truth": {
+   "chips": 5
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-04.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   278,
+   267,
+   700,
+   342
+  ],
+  "truth": {
+   "chips": 3
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC08/chipping/chipping-05.jpg",
+  "station": "PC08",
+  "defect": "chipping",
+  "bbox": [
+   422,
+   250,
+   816,
+   337
+  ],
+  "truth": {
+   "chips": 3
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-00.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   842,
+   211,
+   1165,
+   322
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-01.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   847,
+   218,
+   1171,
+   333
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-02.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   843,
+   212,
+   1166,
+   323
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-03.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   841,
+   207,
+   1165,
+   321
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-04.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   830,
+   214,
+   1154,
+   329
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/bad_injection/bad_injection-05.jpg",
+  "station": "PC12",
+  "defect": "bad_injection",
+  "bbox": [
+   827,
+   206,
+   1150,
+   319
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-00.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   790,
+   245,
+   869,
+   324
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-01.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   793,
+   201,
+   869,
+   282
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-02.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   818,
+   202,
+   874,
+   283
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-03.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   809,
+   247,
+   876,
+   326
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-04.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   782,
+   250,
+   862,
+   331
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blocked_skirt/blocked_skirt-05.jpg",
+  "station": "PC12",
+  "defect": "blocked_skirt",
+  "bbox": [
+   782,
+   232,
+   854,
+   311
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-00.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   482,
+   214,
+   678,
+   319
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-01.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   324,
+   206,
+   590,
+   331
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-02.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   534,
+   213,
+   754,
+   324
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-03.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   540,
+   203,
+   709,
+   302
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-04.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   335,
+   217,
+   590,
+   322
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/blade_rust/blade_rust-05.jpg",
+  "station": "PC12",
+  "defect": "blade_rust",
+  "bbox": [
+   479,
+   218,
+   634,
+   311
+  ],
+  "truth": {},
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-00.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   892,
+   188,
+   1068,
+   322
+  ],
+  "truth": {
+   "burrs": 11
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-01.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   862,
+   196,
+   1126,
+   348
+  ],
+  "truth": {
+   "burrs": 12
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-02.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   842,
+   198,
+   1063,
+   348
+  ],
+  "truth": {
+   "burrs": 9
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-03.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   870,
+   202,
+   1089,
+   342
+  ],
+  "truth": {
+   "burrs": 13
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-04.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   857,
+   190,
+   1110,
+   328
+  ],
+  "truth": {
+   "burrs": 8
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ },
+ {
+  "file": "PC12/poor_deburring/poor_deburring-05.jpg",
+  "station": "PC12",
+  "defect": "poor_deburring",
+  "bbox": [
+   928,
+   186,
+   1114,
+   328
+  ],
+  "truth": {
+   "burrs": 9
+  },
+  "method": "procedural",
+  "simulated": true,
+  "w": 1200,
+  "h": 432
+ }
+]

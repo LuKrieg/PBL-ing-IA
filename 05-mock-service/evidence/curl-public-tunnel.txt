@@ -1,0 +1,35 @@
+# Evidencia vía túnel público ngrok (https://diffusion-briskly-craftily.ngrok-free.dev) — 2026-11-10T19:46:30Z
+
+$ curl -i $URL/health
+HTTP/2 200 
+content-type: application/json
+date: Tue, 10 Nov 2026 19:46:30 GMT
+ngrok-agent-ips: 201.247.171.137
+server: uvicorn
+x-robots-tag: noindex, nofollow
+content-length: 15
+
+{"status":"ok"}
+
+$ curl -i $URL/info   # sin token
+HTTP/2 401 
+content-type: application/json
+date: Tue, 10 Nov 2026 19:46:30 GMT
+ngrok-agent-ips: 201.247.171.137
+server: uvicorn
+www-authenticate: Bearer
+x-robots-tag: noindex, nofollow
+content-length: 25
+
+{"detail":"Unauthorized"}
+
+$ curl -i -H "Authorization: Bearer <INFO_TOKEN>" $URL/info
+HTTP/2 200 
+content-type: application/json
+date: Tue, 10 Nov 2026 19:46:30 GMT
+ngrok-agent-ips: 201.247.171.137
+server: uvicorn
+x-robots-tag: noindex, nofollow
+content-length: 99
+
+{"team":"Planta","station":"PC10","version":"1.0.0","timestamp":"2026-11-10T19:46:31.672665+00:00"}

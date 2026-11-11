@@ -1,0 +1,8 @@
+services:
+  mock:
+    build: .
+    image: pc10-mock-service:1.0.0
+    ports: ["8000:8000"]
+    environment:
+      INFO_TOKEN: ${INFO_TOKEN:?set INFO_TOKEN in .env}
+    restart: unless-stopped
