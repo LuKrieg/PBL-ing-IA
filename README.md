@@ -18,10 +18,13 @@ Esta carpeta contiene **todo lo construido** (UI completa + servicio Docker + im
 
 ## 2. Cómo correrlo
 
+**Un solo clic en Windows:** abre [`iniciar-todo.bat`](iniciar-todo.bat) para levantar Docker (`05-mock-service`), la UI (`01-ui`) y el túnel público automáticamente (y [`detener-todo.bat`](detener-todo.bat) para apagar todo). También hay lanzadores individuales en `01-ui\iniciar-ui.bat`, `05-mock-service\iniciar-mock-docker.bat`, `05-mock-service\iniciar-tunel.bat` e `iniciar-tunel-backup.bat`.
+
 ```bash
 # UI (un solo proceso: API + SPA)         ->  http://127.0.0.1:8100
 ./01-ui/run.sh
-#   usuarios demo:  admin / Planta-Admin-2026   (puede iniciar/detener el simulador)
+#   usuarios demo:  yo / yo                         (acceso rápido, administrador)
+#                   admin / Planta-Admin-2026       (puede iniciar/detener el simulador)
 #                   operador / Planta-Operador-2026
 # Desarrollo con recarga: backend `uv run uvicorn app.main:app --port 8100`; frontend `pnpm dev` (http://localhost:5173, proxy a 8100)
 

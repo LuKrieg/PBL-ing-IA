@@ -14,4 +14,5 @@ SIM_INTERVAL_S = float(os.getenv("SIM_INTERVAL_S", "4"))
 DEMO_USERS = [
     {"username": "admin", "password": os.getenv("DEMO_ADMIN_PASSWORD", "Planta-Admin-2026"), "role": "admin", "name": "Administrador"},
     {"username": "operador", "password": os.getenv("DEMO_OPERATOR_PASSWORD", "Planta-Operador-2026"), "role": "operator", "name": "Operador PC10"},
+    {"username": "yo", "password": os.getenv("DEMO_QUICK_PASSWORD", "yo"), "role": "admin", "name": "Acceso rápido"},
 ]

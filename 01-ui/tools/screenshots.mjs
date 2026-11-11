@@ -7,7 +7,9 @@ import { join } from "node:path";
 
 const BASE = process.argv[2] ?? "http://127.0.0.1:8100";
 const OUT = process.argv[3] ?? "screenshots";
-const CHROME = process.env.CHROME ?? `${process.env.HOME}/.cache/ms-playwright/chromium-1140/chrome-linux/chrome`;
+const CHROME = process.env.CHROME ?? (process.platform === "win32"
+  ? "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  : `${process.env.HOME}/.cache/ms-playwright/chromium-1140/chrome-linux/chrome`);
 const PORT = 9333;
 mkdirSync(OUT, { recursive: true });
 

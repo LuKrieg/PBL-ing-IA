@@ -11,6 +11,8 @@ Exactly two endpoints, as the checkpoint asks. `/docs`, `/redoc` and `/openapi.j
 
 ## Run
 
+Windows (one-click): double-click `iniciar-mock-docker.bat` (or `..\iniciar-todo.bat` from the repo root to start Docker + UI + tunnel together).
+
 ```bash
 cd 05-mock-service
 cp .env.example .env            # set INFO_TOKEN to a long random value:  python3 -c "import secrets;print(secrets.token_urlsafe(24))"
@@ -21,6 +23,8 @@ python3 smoke_test.py http://localhost:8000 "$INFO_TOKEN"
 Local tests (no Docker): `uv run pytest -q` (12 tests).
 
 ## Tunnel
+
+Windows (one-click): double-click `iniciar-tunel.bat` (ngrok) or `iniciar-tunel-backup.bat` (cloudflared).
 
 Primary (fixed URL, from `udb/nlp-qa-api`): `diffusion-briskly-craftily.ngrok-free.dev`.
 **A fixed free ngrok domain only allows one tunnel at a time, so stop the `nlp-qa-api` tunnel first.** ngrok 3.39 is installed in WSL; the authtoken is NOT configured yet:
